@@ -11,6 +11,9 @@
     {{-- Bootstrap Icons --}}
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
 
+    {{-- Personal CSS --}}
+    <link rel="stylesheet" href="/css/style.css">
+
     <title>NIP Blog | {{ $title }}</title>
   </head>
   <body>
